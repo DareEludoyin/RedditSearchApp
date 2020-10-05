@@ -1,0 +1,14 @@
+{
+  "name": "finddit",
+  "version": "1.0.0",
+  "description": "Reddit Search App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dee",
+  "license": "MIT",
+  "dependencies": {
+    "redditapi": "^1.0.1"
+  }
+}
